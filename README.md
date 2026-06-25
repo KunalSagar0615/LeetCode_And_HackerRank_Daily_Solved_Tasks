@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/1251-average-selling-price) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/KunalSagar0615/LeetCode_And_HackerRank_Daily_Solved_Tasks/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Hash Table
 |  |
